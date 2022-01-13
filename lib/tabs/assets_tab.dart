@@ -12,7 +12,7 @@ class AssetsTab extends StatelessWidget {
         children: const [
           Text('Asset Audio'),
           AudioPlayerWidget(
-            url: 'audio1.mp3',
+            url: 'audio2.mp3',
             isAsset: true,
           )
         ],
